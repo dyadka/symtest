@@ -1,0 +1,9 @@
+web/bundles/
+app/config/parameters.yml
+app/bootstrap.php.cache
+app/cache/
+app/logs/
+temp/
+build/
+vendor/
+composer.phar
